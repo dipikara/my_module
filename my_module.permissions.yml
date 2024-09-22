@@ -1,0 +1,3 @@
+administer my module:
+  title: 'Administer My Module'
+  description: 'Permission to administer the custom config form settings.'

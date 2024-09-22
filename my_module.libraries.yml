@@ -1,0 +1,6 @@
+my_module:
+  version: 1.0
+  js:
+    js/my_module.js: {}
+  dependencies:
+    - core/jquery

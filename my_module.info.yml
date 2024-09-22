@@ -1,0 +1,7 @@
+name: 'My Module'
+type: module
+description: 'Provides a custom configuration form.'
+core_version_requirement: ^10
+package: Custom
+dependencies:
+  - drupal:config
